@@ -1,0 +1,9 @@
+
+# Kafka configuration
+bootstrapServers: "localhost:9092"
+topic: "test"
+
+# Akka route configuration
+interface: "localhost"
+port: "8080"
+

@@ -1,4 +1,4 @@
-name := "AkkaHTTP"
+name := "Akka-Kafka-producer"
 
 version := "0.1"
 

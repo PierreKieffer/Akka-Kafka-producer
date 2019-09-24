@@ -1,5 +1,5 @@
 # Akka-Kafka-producer
-Simple application that provides a kafka producer using an Akka http server
+Simple application template that provides a kafka producer using an Akka http server
 
 ## Build the app 
 - Clone the repository
